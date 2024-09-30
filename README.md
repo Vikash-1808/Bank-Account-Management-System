@@ -1,5 +1,6 @@
 # Bank-Account-Management-System
 **Overview**
+
 The Bank Account Management System is a Java-based desktop application designed to manage customer bank accounts efficiently. The system allows users to create accounts, perform transactions (deposit, withdrawal), view balances, and maintain transaction history. The backend uses an SQL database for data storage and retrieval.
 
 
